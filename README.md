@@ -4,6 +4,7 @@ _"A popular way of defining plant-like structures is to use Lindenmayer Systems,
 short. L-Systems are named after the biologist Aristid Lindenmayer who was interested in describing
 the apparently fractal nature of plant growth using simple rewriting rules." - Jamie Willis_
 <hr>
+
 ### Brief Intro
 This project/exercise in Haskell (whose original skeleton files are written by Jamie Willis) aims to produce renderings of Lindenmayer-Systems (L-Systems) using OpenGL (via GLUT) and turtle-based graphics.
 The program, when run appropriately, is able to parse, expand and render well-known L-systems, with the added extensionality feature of line color variance in the rendering (specifically, hue-shifting). 
